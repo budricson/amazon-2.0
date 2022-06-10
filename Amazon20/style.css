@@ -1,0 +1,14 @@
+.main-section-banner {
+    background-image: url("https://i.ibb.co/JnmTD12/banner.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.hot {
+    max-width: 20%;
+  height: 20%;
+  border: 20px solid #ffffff;
+    box-sizing: border-box;
+}
+.flag {
+    max-width: 20%;
+}
