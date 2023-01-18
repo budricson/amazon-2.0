@@ -1,6 +1,8 @@
 # Amazon 2.0
 
-This is a web app that recreates the functionality of Amazon's website. It uses the following technologies:
+This is a web app that recreates the functionality of Amazon's website.
+
+# It uses the following technologies:
 
 HTML
 CSS (using the Tailwind CSS framework)
